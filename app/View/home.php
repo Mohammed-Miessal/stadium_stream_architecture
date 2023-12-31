@@ -477,7 +477,7 @@
                     </div>
                     <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
                         <div class="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" class="object-cover object-center h-full w-full"src="public/assets/images/abidjan.jpg" />
+                            <img alt="content" class="object-cover object-center h-full w-full" src="public/assets/images/abidjan.jpg" />
                         </div>
                         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">
                             The Catalyzer
@@ -495,7 +495,7 @@
                     </div>
                     <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
                         <div class="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" class="object-cover object-center h-full w-full"src="public/assets/images/abidjan.jpg" />
+                            <img alt="content" class="object-cover object-center h-full w-full" src="public/assets/images/abidjan.jpg" />
                         </div>
                         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">
                             The 400 Blows
@@ -772,7 +772,7 @@
 
 
     <!-- / For dark mode -->
-    <link rel="stylesheet" href="public/assets/js/darkmode.js">
+    <script src="public/assets/js/darkmode.js"></script>
     <!-- / For navbar mobile -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.0.0/flowbite.min.js"></script>
 </body>
